@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project Proj9: Project 9
+
+courseName=CMSC131
+semester=202401
+projectNumber=Proj9
+courseKey=a5f2137231a015ae
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2024
+submitURL=https://submit.cs.umd.edu:443/spring2024/eclipse/SubmitProjectViaEclipse
