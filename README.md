@@ -1,4 +1,4 @@
-**Media Rental System**
+<ins>**Media Rental System**</ins>
 
 Overview
 The Media Rental System is designed to manage the rental process for customers and media (movies and music albums). This system keeps track of customers, their rental plans, and the media they are interested in or have already rented. This README will guide you through the expected functionality of the system and how to use it.
