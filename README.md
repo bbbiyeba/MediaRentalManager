@@ -20,11 +20,15 @@ A customer in the system has:
 2. An address
 3. A rental plan (UNLIMITED or LIMITED)
 4. Two queues:
-   a.Interested media queue
-   b.Rented media queue
-5. Rental Plans
+   
+   a. Interested media queue
+   
+   b. Rented media queue
+6. Rental Plans
+   
    a. UNLIMITED: Allows a customer to rent as many media items as they want.
-   b.LIMITED: Restricts the customer to renting a default of 2 media items (this value can be changed via a manager method).
+   
+   b. LIMITED: Restricts the customer to renting a default of 2 media items (this value can be changed via a manager method).
 
 <ins>**Media:**</ins>
 The media in the system can be either movies or music albums.
@@ -34,12 +38,17 @@ A movie has:
 1. A title
 2. A number of copies available
 3. A rating (e.g., "PG")
-4. Albums
+4. Albums - 
    An album has:
+   
    a. A title
+   
    b. A number of copies available
+   
    c. An artist
+   
    d. A list of songs
+   
    e. Database Representation
    
 The database for the system is represented using two ArrayList objects:
